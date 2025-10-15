@@ -1,0 +1,500 @@
+transaction_id,transaction_date,Date_Brackets,transaction_time,Transaction time ,transaction_qty,store_location,product_id,unit_price,product_category,product_type,product_detail,Product Braket,Sales
+1,1/1/2023,Jan,7:06:11 AM,Morning,2,Lower Manhattan,32,3.00,Coffee,Gourmet brewed coffee,Ethiopia Rg,Ethiopia,6.00
+2,1/1/2023,Jan,7:08:56 AM,Morning,2,Lower Manhattan,57,3.10,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,Spicy Eye Opener Chai,6.20
+3,1/1/2023,Jan,7:14:04 AM,Morning,2,Lower Manhattan,59,4.50,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,Dark chocolate,9.00
+4,1/1/2023,Jan,7:20:24 AM,Morning,1,Lower Manhattan,22,2.00,Coffee,Drip coffee,Our Old Time Diner Blend Sm,Our Old Time Diner Blend,2.00
+5,1/1/2023,Jan,7:22:41 AM,Morning,2,Lower Manhattan,57,3.10,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,Spicy Eye Opener Chai,6.20
+6,1/1/2023,Jan,7:22:41 AM,Morning,1,Lower Manhattan,77,3.00,Bakery,Scone,Oatmeal Scone,Oatmeal Scone,3.00
+7,1/1/2023,Jan,7:25:49 AM,Morning,1,Lower Manhattan,22,2.00,Coffee,Drip coffee,Our Old Time Diner Blend Sm,Our Old Time Diner Blend,2.00
+8,1/1/2023,Jan,7:33:34 AM,Morning,2,Lower Manhattan,28,2.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,Columbian Medium Roast,4.00
+9,1/1/2023,Jan,7:39:13 AM,Morning,1,Lower Manhattan,39,4.25,Coffee,Barista Espresso,Latte Rg,Latte,4.25
+10,1/1/2023,Jan,7:39:34 AM,Morning,2,Lower Manhattan,58,3.50,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,Dark chocolate,7.00
+11,1/1/2023,Jan,7:43:05 AM,Morning,1,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,Spicy Eye Opener Chai,2.55
+12,1/1/2023,Jan,7:44:35 AM,Morning,2,Lower Manhattan,33,3.50,Coffee,Gourmet brewed coffee,Ethiopia Lg,Ethiopia,7.00
+13,1/1/2023,Jan,7:45:51 AM,Morning,1,Lower Manhattan,51,3.00,Tea,Brewed Black tea,Earl Grey Lg,Earl Grey,3.00
+14,1/1/2023,Jan,7:48:19 AM,Morning,1,Lower Manhattan,57,3.10,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,Spicy Eye Opener Chai,3.10
+15,1/1/2023,Jan,7:52:36 AM,Morning,2,Lower Manhattan,87,3.00,Coffee,Barista Espresso,Ouro Brasileiro shot,Ouro Brasileiro shot,6.00
+16,1/1/2023,Jan,7:59:58 AM,Morning,2,Lower Manhattan,47,3.00,Tea,Brewed Green tea,Serenity Green Tea Lg,Serenity Green Tea,6.00
+17,1/1/2023,Jan,7:59:58 AM,Morning,1,Lower Manhattan,79,3.75,Bakery,Scone,Jumbo Savory Scone,Jumbo Savory Scone,3.75
+18,1/1/2023,Jan,8:00:18 AM,Morning,1,Hell's Kitchen,42,2.50,Tea,Brewed herbal tea,Lemon Grass Rg,Lemon Grass,2.50
+19,1/1/2023,Jan,8:00:39 AM,Morning,2,Hell's Kitchen,59,4.50,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,Dark chocolate,9.00
+20,1/1/2023,Jan,8:11:45 AM,Morning,1,Hell's Kitchen,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,Sustainably Grown Organic,4.75
+21,1/1/2023,Jan,8:17:27 AM,Morning,2,Hell's Kitchen,33,3.50,Coffee,Gourmet brewed coffee,Ethiopia Lg,Ethiopia,7.00
+22,1/1/2023,Jan,8:24:26 AM,Morning,2,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,Spicy Eye Opener Chai,5.10
+23,1/1/2023,Jan,8:24:26 AM,Morning,1,Lower Manhattan,69,3.25,Bakery,Biscotti,Hazelnut Biscotti,Hazelnut Biscotti,3.25
+24,1/1/2023,Jan,8:29:38 AM,Morning,1,Hell's Kitchen,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,Spicy Eye Opener Chai,2.55
+25,1/1/2023,Jan,8:31:23 AM,Morning,1,Hell's Kitchen,40,3.75,Coffee,Barista Espresso,Cappuccino,Cappuccino,3.75
+26,1/1/2023,Jan,8:33:08 AM,Morning,1,Lower Manhattan,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg,Lemon Grass,3.00
+27,1/1/2023,Jan,8:33:08 AM,Morning,1,Lower Manhattan,76,3.50,Bakery,Biscotti,Chocolate Chip Biscotti,Chocolate Chip Biscotti,3.50
+28,1/1/2023,Jan,8:35:03 AM,Morning,2,Lower Manhattan,45,3.00,Tea,Brewed herbal tea,Peppermint Lg,Peppermint,6.00
+29,1/1/2023,Jan,8:35:03 AM,Morning,1,Lower Manhattan,71,3.75,Bakery,Pastry,Chocolate Croissant,Chocolate Croissant,3.75
+30,1/1/2023,Jan,8:41:57 AM,Morning,2,Hell's Kitchen,40,3.75,Coffee,Barista Espresso,Cappuccino,Cappuccino,7.50
+31,1/1/2023,Jan,8:52:03 AM,Morning,1,Hell's Kitchen,38,3.75,Coffee,Barista Espresso,Latte,Latte,3.75
+32,1/1/2023,Jan,8:52:32 AM,Morning,1,Lower Manhattan,26,3.00,Coffee,Organic brewed coffee,Brazilian Rg,Brazilian,3.00
+33,1/1/2023,Jan,8:54:33 AM,Morning,2,Lower Manhattan,27,3.50,Coffee,Organic brewed coffee,Brazilian Lg,Brazilian,7.00
+34,1/1/2023,Jan,8:56:27 AM,Morning,2,Lower Manhattan,29,2.50,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,Columbian Medium Roast,5.00
+35,1/1/2023,Jan,8:57:46 AM,Morning,1,Hell's Kitchen,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,2.50
+36,1/1/2023,Jan,8:58:55 AM,Morning,1,Lower Manhattan,26,3.00,Coffee,Organic brewed coffee,Brazilian Rg,Brazilian,3.00
+37,1/1/2023,Jan,9:00:12 AM,Morning,1,Lower Manhattan,55,4.00,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,Morning Sunrise Chai,4.00
+38,1/1/2023,Jan,9:00:24 AM,Morning,2,Hell's Kitchen,40,3.75,Coffee,Barista Espresso,Cappuccino,Cappuccino,7.50
+39,1/1/2023,Jan,9:07:13 AM,Morning,1,Hell's Kitchen,45,3.00,Tea,Brewed herbal tea,Peppermint Lg,Peppermint,3.00
+40,1/1/2023,Jan,9:08:09 AM,Morning,2,Hell's Kitchen,45,3.00,Tea,Brewed herbal tea,Peppermint Lg,Peppermint,6.00
+41,1/1/2023,Jan,9:08:13 AM,Morning,1,Hell's Kitchen,24,3.00,Coffee,Drip coffee,Our Old Time Diner Blend Lg,Our Old Time Diner Blend,3.00
+42,1/1/2023,Jan,9:10:30 AM,Morning,2,Lower Manhattan,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,7.50
+43,1/1/2023,Jan,9:10:30 AM,Morning,1,Lower Manhattan,78,4.50,Bakery,Scone,Scottish Cream Scone ,Scottish Cream Scone,4.50
+44,1/1/2023,Jan,9:11:06 AM,Morning,1,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,Spicy Eye Opener Chai,2.55
+45,1/1/2023,Jan,9:11:06 AM,Morning,1,Lower Manhattan,77,3.00,Bakery,Scone,Oatmeal Scone,Oatmeal Scone,3.00
+46,1/1/2023,Jan,9:13:01 AM,Morning,1,Lower Manhattan,44,2.50,Tea,Brewed herbal tea,Peppermint Rg,Peppermint,2.50
+47,1/1/2023,Jan,9:13:15 AM,Morning,2,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,Spicy Eye Opener Chai,5.10
+48,1/1/2023,Jan,9:14:16 AM,Morning,1,Lower Manhattan,48,2.50,Tea,Brewed Black tea,English Breakfast Rg,English Breakfast,2.50
+49,1/1/2023,Jan,9:14:17 AM,Morning,1,Hell's Kitchen,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,2.50
+50,1/1/2023,Jan,9:14:25 AM,Morning,1,Hell's Kitchen,46,2.50,Tea,Brewed Green tea,Serenity Green Tea Rg,Serenity Green Tea,2.50
+51,1/1/2023,Jan,9:14:41 AM,Morning,1,Hell's Kitchen,32,3.00,Coffee,Gourmet brewed coffee,Ethiopia Rg,Ethiopia,3.00
+52,1/1/2023,Jan,9:15:09 AM,Morning,2,Lower Manhattan,47,3.00,Tea,Brewed Green tea,Serenity Green Tea Lg,Serenity Green Tea,6.00
+53,1/1/2023,Jan,9:15:13 AM,Morning,2,Lower Manhattan,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg,Lemon Grass,6.00
+54,1/1/2023,Jan,9:19:21 AM,Morning,2,Lower Manhattan,25,2.20,Coffee,Organic brewed coffee,Brazilian Sm,Brazilian,4.40
+55,1/1/2023,Jan,9:19:26 AM,Morning,1,Hell's Kitchen,59,4.50,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,Dark chocolate,4.50
+56,1/1/2023,Jan,9:21:08 AM,Morning,1,Lower Manhattan,38,3.75,Coffee,Barista Espresso,Latte,Latte,3.75
+57,1/1/2023,Jan,9:22:17 AM,Morning,1,Hell's Kitchen,45,3.00,Tea,Brewed herbal tea,Peppermint Lg,Peppermint,3.00
+58,1/1/2023,Jan,9:22:46 AM,Morning,1,Lower Manhattan,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,Jamaican Coffee River,2.45
+59,1/1/2023,Jan,9:29:56 AM,Morning,2,Hell's Kitchen,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,7.50
+60,1/1/2023,Jan,9:29:56 AM,Morning,1,Hell's Kitchen,74,3.50,Bakery,Biscotti,Ginger Biscotti,Ginger Biscotti,3.50
+61,1/1/2023,Jan,9:29:57 AM,Morning,1,Hell's Kitchen,53,3.00,Tea,Brewed Chai tea,Traditional Blend Chai Lg,Traditional Blend Chai,3.00
+62,1/1/2023,Jan,9:34:17 AM,Morning,2,Hell's Kitchen,41,4.25,Coffee,Barista Espresso,Cappuccino Lg,Cappuccino,8.50
+63,1/1/2023,Jan,9:40:13 AM,Morning,1,Lower Manhattan,41,4.25,Coffee,Barista Espresso,Cappuccino Lg,Cappuccino,4.25
+64,1/1/2023,Jan,9:41:22 AM,Morning,2,Lower Manhattan,45,3.00,Tea,Brewed herbal tea,Peppermint Lg,Peppermint,6.00
+65,1/1/2023,Jan,9:41:22 AM,Morning,1,Lower Manhattan,79,3.75,Bakery,Scone,Jumbo Savory Scone,Jumbo Savory Scone,3.75
+66,1/1/2023,Jan,9:44:20 AM,Morning,2,Lower Manhattan,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,5.00
+67,1/1/2023,Jan,9:44:46 AM,Morning,1,Lower Manhattan,24,3.00,Coffee,Drip coffee,Our Old Time Diner Blend Lg,Our Old Time Diner Blend,3.00
+68,1/1/2023,Jan,9:46:46 AM,Morning,2,Lower Manhattan,37,3.00,Coffee,Barista Espresso,Espresso shot,Espresso shot,6.00
+69,1/1/2023,Jan,9:47:40 AM,Morning,2,Hell's Kitchen,40,3.75,Coffee,Barista Espresso,Cappuccino,Cappuccino,7.50
+70,1/1/2023,Jan,9:50:44 AM,Morning,2,Lower Manhattan,37,3.00,Coffee,Barista Espresso,Espresso shot,Espresso shot,6.00
+71,1/1/2023,Jan,9:50:44 AM,Morning,1,Lower Manhattan,69,3.25,Bakery,Biscotti,Hazelnut Biscotti,Hazelnut Biscotti,3.25
+72,1/1/2023,Jan,9:52:58 AM,Morning,1,Lower Manhattan,50,2.50,Tea,Brewed Black tea,Earl Grey Rg,Earl Grey,2.50
+73,1/1/2023,Jan,9:53:28 AM,Morning,1,Hell's Kitchen,47,3.00,Tea,Brewed Green tea,Serenity Green Tea Lg,Serenity Green Tea,3.00
+74,1/1/2023,Jan,9:53:44 AM,Morning,2,Hell's Kitchen,40,3.75,Coffee,Barista Espresso,Cappuccino,Cappuccino,7.50
+75,1/1/2023,Jan,9:53:44 AM,Morning,1,Hell's Kitchen,72,3.25,Bakery,Scone,Ginger Scone,Ginger Scone,3.25
+76,1/1/2023,Jan,9:53:49 AM,Morning,1,Hell's Kitchen,35,3.10,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Jamaican Coffee River,3.10
+77,1/1/2023,Jan,9:54:46 AM,Morning,1,Lower Manhattan,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,2.50
+78,1/1/2023,Jan,9:55:16 AM,Morning,2,Lower Manhattan,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg,Lemon Grass,6.00
+79,1/1/2023,Jan,9:56:30 AM,Morning,1,Hell's Kitchen,22,2.00,Coffee,Drip coffee,Our Old Time Diner Blend Sm,Our Old Time Diner Blend,2.00
+80,1/1/2023,Jan,10:00:39 AM,Morning,2,Hell's Kitchen,32,3.00,Coffee,Gourmet brewed coffee,Ethiopia Rg,Ethiopia,6.00
+81,1/1/2023,Jan,10:03:55 AM,Morning,2,Hell's Kitchen,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,7.50
+82,1/1/2023,Jan,10:14:49 AM,Morning,1,Lower Manhattan,26,3.00,Coffee,Organic brewed coffee,Brazilian Rg,Brazilian,3.00
+83,1/1/2023,Jan,10:14:49 AM,Morning,1,Lower Manhattan,71,3.75,Bakery,Pastry,Chocolate Croissant,Chocolate Croissant,3.75
+84,1/1/2023,Jan,10:16:30 AM,Morning,2,Lower Manhattan,32,3.00,Coffee,Gourmet brewed coffee,Ethiopia Rg,Ethiopia,6.00
+85,1/1/2023,Jan,10:16:33 AM,Morning,1,Hell's Kitchen,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,2.50
+86,1/1/2023,Jan,10:18:14 AM,Morning,2,Hell's Kitchen,41,4.25,Coffee,Barista Espresso,Cappuccino Lg,Cappuccino,8.50
+87,1/1/2023,Jan,10:18:52 AM,Morning,2,Lower Manhattan,25,2.20,Coffee,Organic brewed coffee,Brazilian Sm,Brazilian,4.40
+88,1/1/2023,Jan,10:19:42 AM,Morning,2,Lower Manhattan,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,5.00
+89,1/1/2023,Jan,10:24:19 AM,Morning,1,Hell's Kitchen,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,2.50
+90,1/1/2023,Jan,10:25:22 AM,Morning,2,Hell's Kitchen,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,Spicy Eye Opener Chai,5.10
+91,1/1/2023,Jan,10:25:45 AM,Morning,2,Lower Manhattan,58,3.50,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,Dark chocolate,7.00
+92,1/1/2023,Jan,10:25:45 AM,Morning,1,Lower Manhattan,74,3.50,Bakery,Biscotti,Ginger Biscotti,Ginger Biscotti,3.50
+93,1/1/2023,Jan,10:27:48 AM,Morning,2,Hell's Kitchen,47,3.00,Tea,Brewed Green tea,Serenity Green Tea Lg,Serenity Green Tea,6.00
+94,1/1/2023,Jan,10:30:07 AM,Morning,1,Lower Manhattan,35,3.10,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Jamaican Coffee River,3.10
+95,1/1/2023,Jan,10:30:07 AM,Morning,1,Lower Manhattan,70,3.25,Bakery,Scone,Cranberry Scone,Cranberry Scone,3.25
+96,1/1/2023,Jan,10:35:47 AM,Morning,1,Hell's Kitchen,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,3.75
+97,1/1/2023,Jan,10:41:53 AM,Morning,1,Lower Manhattan,59,4.50,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,Dark chocolate,4.50
+98,1/1/2023,Jan,10:47:53 AM,Morning,2,Lower Manhattan,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,7.50
+99,1/1/2023,Jan,10:49:13 AM,Morning,2,Hell's Kitchen,51,3.00,Tea,Brewed Black tea,Earl Grey Lg,Earl Grey,6.00
+100,1/1/2023,Jan,10:49:51 AM,Morning,2,Lower Manhattan,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,Sustainably Grown Organic,9.50
+101,1/1/2023,Jan,10:51:17 AM,Morning,1,Lower Manhattan,47,3.00,Tea,Brewed Green tea,Serenity Green Tea Lg,Serenity Green Tea,3.00
+102,1/1/2023,Jan,10:52:44 AM,Morning,2,Hell's Kitchen,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,5.00
+103,1/1/2023,Jan,10:52:44 AM,Morning,1,Hell's Kitchen,73,3.75,Bakery,Pastry,Almond Croissant,Almond Croissant,3.75
+104,1/1/2023,Jan,10:56:14 AM,Morning,1,Lower Manhattan,38,3.75,Coffee,Barista Espresso,Latte,Latte,3.75
+105,1/1/2023,Jan,10:56:14 AM,Morning,1,Lower Manhattan,76,3.50,Bakery,Biscotti,Chocolate Chip Biscotti,Chocolate Chip Biscotti,3.50
+106,1/1/2023,Jan,11:01:48 AM,Morning,1,Astoria,22,2.00,Coffee,Drip coffee,Our Old Time Diner Blend Sm,Our Old Time Diner Blend,2.00
+107,1/1/2023,Jan,11:01:58 AM,Morning,1,Astoria,38,3.75,Coffee,Barista Espresso,Latte,Latte,3.75
+108,1/1/2023,Jan,11:01:58 AM,Morning,1,Astoria,75,3.50,Bakery,Pastry,Croissant,Croissant,3.50
+109,1/1/2023,Jan,11:03:25 AM,Morning,2,Lower Manhattan,47,3.00,Tea,Brewed Green tea,Serenity Green Tea Lg,Serenity Green Tea,6.00
+110,1/1/2023,Jan,11:03:25 AM,Morning,1,Lower Manhattan,75,3.50,Bakery,Pastry,Croissant,Croissant,3.50
+111,1/1/2023,Jan,11:04:32 AM,Morning,2,Hell's Kitchen,39,4.25,Coffee,Barista Espresso,Latte Rg,Latte,8.50
+112,1/1/2023,Jan,11:08:11 AM,Morning,1,Astoria,59,4.50,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,Dark chocolate,4.50
+113,1/1/2023,Jan,11:08:59 AM,Morning,2,Hell's Kitchen,51,3.00,Tea,Brewed Black tea,Earl Grey Lg,Earl Grey,6.00
+114,1/1/2023,Jan,11:09:01 AM,Morning,1,Astoria,59,4.50,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,Dark chocolate,4.50
+115,1/1/2023,Jan,11:10:21 AM,Morning,1,Astoria,47,3.00,Tea,Brewed Green tea,Serenity Green Tea Lg,Serenity Green Tea,3.00
+116,1/1/2023,Jan,11:10:21 AM,Morning,1,Astoria,79,3.75,Bakery,Scone,Jumbo Savory Scone,Jumbo Savory Scone,3.75
+117,1/1/2023,Jan,11:10:58 AM,Morning,1,Astoria,46,2.50,Tea,Brewed Green tea,Serenity Green Tea Rg,Serenity Green Tea,2.50
+118,1/1/2023,Jan,11:12:29 AM,Morning,1,Astoria,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg,Lemon Grass,3.00
+119,1/1/2023,Jan,11:16:02 AM,Morning,2,Astoria,45,3.00,Tea,Brewed herbal tea,Peppermint Lg,Peppermint,6.00
+120,1/1/2023,Jan,11:21:00 AM,Morning,2,Hell's Kitchen,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,5.00
+121,1/1/2023,Jan,11:21:04 AM,Morning,2,Lower Manhattan,51,3.00,Tea,Brewed Black tea,Earl Grey Lg,Earl Grey,6.00
+122,1/1/2023,Jan,11:21:14 AM,Morning,1,Astoria,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,3.75
+123,1/1/2023,Jan,11:23:01 AM,Morning,1,Hell's Kitchen,31,2.20,Coffee,Gourmet brewed coffee,Ethiopia Sm,Ethiopia,2.20
+124,1/1/2023,Jan,11:23:43 AM,Morning,2,Lower Manhattan,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,7.50
+125,1/1/2023,Jan,11:23:43 AM,Morning,1,Lower Manhattan,77,3.00,Bakery,Scone,Oatmeal Scone,Oatmeal Scone,3.00
+126,1/1/2023,Jan,11:25:35 AM,Morning,2,Astoria,49,3.00,Tea,Brewed Black tea,English Breakfast Lg,English Breakfast,6.00
+127,1/1/2023,Jan,11:25:37 AM,Morning,2,Lower Manhattan,40,3.75,Coffee,Barista Espresso,Cappuccino,Cappuccino,7.50
+128,1/1/2023,Jan,11:28:15 AM,Morning,2,Hell's Kitchen,44,2.50,Tea,Brewed herbal tea,Peppermint Rg,Peppermint,5.00
+129,1/1/2023,Jan,11:28:29 AM,Morning,2,Astoria,33,3.50,Coffee,Gourmet brewed coffee,Ethiopia Lg,Ethiopia,7.00
+130,1/1/2023,Jan,11:29:25 AM,Morning,2,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,Spicy Eye Opener Chai,5.10
+131,1/1/2023,Jan,11:29:57 AM,Morning,2,Hell's Kitchen,35,3.10,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Jamaican Coffee River,6.20
+132,1/1/2023,Jan,11:29:57 AM,Morning,1,Hell's Kitchen,78,4.50,Bakery,Scone,Scottish Cream Scone ,Scottish Cream Scone,4.50
+133,1/1/2023,Jan,11:30:22 AM,Morning,1,Hell's Kitchen,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,2.50
+134,1/1/2023,Jan,11:31:35 AM,Morning,1,Hell's Kitchen,24,3.00,Coffee,Drip coffee,Our Old Time Diner Blend Lg,Our Old Time Diner Blend,3.00
+135,1/1/2023,Jan,11:31:43 AM,Morning,2,Lower Manhattan,51,3.00,Tea,Brewed Black tea,Earl Grey Lg,Earl Grey,6.00
+136,1/1/2023,Jan,11:31:43 AM,Morning,1,Lower Manhattan,72,3.25,Bakery,Scone,Ginger Scone,Ginger Scone,3.25
+137,1/1/2023,Jan,11:31:53 AM,Morning,2,Lower Manhattan,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,5.00
+138,1/1/2023,Jan,11:31:53 AM,Morning,1,Lower Manhattan,75,3.50,Bakery,Pastry,Croissant,Croissant,3.50
+139,1/1/2023,Jan,11:39:14 AM,Morning,1,Lower Manhattan,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,3.75
+140,1/1/2023,Jan,11:39:14 AM,Morning,1,Lower Manhattan,71,3.75,Bakery,Pastry,Chocolate Croissant,Chocolate Croissant,3.75
+141,1/1/2023,Jan,11:40:26 AM,Morning,2,Astoria,52,2.50,Tea,Brewed Chai tea,Traditional Blend Chai Rg,Traditional Blend Chai,5.00
+142,1/1/2023,Jan,11:43:57 AM,Morning,2,Astoria,25,2.20,Coffee,Organic brewed coffee,Brazilian Sm,Brazilian,4.40
+143,1/1/2023,Jan,11:44:09 AM,Morning,1,Lower Manhattan,38,3.75,Coffee,Barista Espresso,Latte,Latte,3.75
+144,1/1/2023,Jan,11:47:13 AM,Morning,1,Astoria,30,3.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,Columbian Medium Roast,3.00
+145,1/1/2023,Jan,11:48:56 AM,Morning,2,Hell's Kitchen,50,2.50,Tea,Brewed Black tea,Earl Grey Rg,Earl Grey,5.00
+146,1/1/2023,Jan,11:49:42 AM,Morning,1,Hell's Kitchen,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,2.50
+147,1/1/2023,Jan,11:49:42 AM,Morning,1,Hell's Kitchen,72,3.25,Bakery,Scone,Ginger Scone,Ginger Scone,3.25
+148,1/1/2023,Jan,11:50:16 AM,Morning,2,Astoria,26,3.00,Coffee,Organic brewed coffee,Brazilian Rg,Brazilian,6.00
+149,1/1/2023,Jan,11:50:23 AM,Morning,2,Astoria,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,7.50
+150,1/1/2023,Jan,11:50:58 AM,Morning,2,Lower Manhattan,45,3.00,Tea,Brewed herbal tea,Peppermint Lg,Peppermint,6.00
+151,1/1/2023,Jan,11:51:30 AM,Morning,2,Hell's Kitchen,33,3.50,Coffee,Gourmet brewed coffee,Ethiopia Lg,Ethiopia,7.00
+152,1/1/2023,Jan,11:52:31 AM,Morning,1,Lower Manhattan,57,3.10,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,Spicy Eye Opener Chai,3.10
+153,1/1/2023,Jan,11:57:17 AM,Morning,2,Astoria,37,3.00,Coffee,Barista Espresso,Espresso shot,Espresso shot,6.00
+154,1/1/2023,Jan,11:57:59 AM,Morning,1,Astoria,50,2.50,Tea,Brewed Black tea,Earl Grey Rg,Earl Grey,2.50
+155,1/1/2023,Jan,11:57:59 AM,Morning,1,Astoria,79,3.75,Bakery,Scone,Jumbo Savory Scone,Jumbo Savory Scone,3.75
+156,1/1/2023,Jan,11:58:15 AM,Morning,2,Astoria,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,7.50
+157,1/1/2023,Jan,12:00:20 PM,Afternoon,1,Lower Manhattan,29,2.50,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,Columbian Medium Roast,2.50
+158,1/1/2023,Jan,12:01:00 PM,Afternoon,2,Astoria,49,3.00,Tea,Brewed Black tea,English Breakfast Lg,English Breakfast,6.00
+159,1/1/2023,Jan,12:01:20 PM,Afternoon,2,Astoria,35,3.10,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Jamaican Coffee River,6.20
+160,1/1/2023,Jan,12:01:20 PM,Afternoon,1,Astoria,75,3.50,Bakery,Pastry,Croissant,Croissant,3.50
+161,1/1/2023,Jan,12:03:09 PM,Afternoon,1,Hell's Kitchen,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,3.75
+162,1/1/2023,Jan,12:03:38 PM,Afternoon,1,Hell's Kitchen,47,3.00,Tea,Brewed Green tea,Serenity Green Tea Lg,Serenity Green Tea,3.00
+163,1/1/2023,Jan,12:03:43 PM,Afternoon,1,Astoria,44,2.50,Tea,Brewed herbal tea,Peppermint Rg,Peppermint,2.50
+164,1/1/2023,Jan,12:04:22 PM,Afternoon,2,Hell's Kitchen,27,3.50,Coffee,Organic brewed coffee,Brazilian Lg,Brazilian,7.00
+165,1/1/2023,Jan,12:05:31 PM,Afternoon,2,Astoria,52,2.50,Tea,Brewed Chai tea,Traditional Blend Chai Rg,Traditional Blend Chai,5.00
+166,1/1/2023,Jan,12:06:29 PM,Afternoon,1,Lower Manhattan,46,2.50,Tea,Brewed Green tea,Serenity Green Tea Rg,Serenity Green Tea,2.50
+167,1/1/2023,Jan,12:07:42 PM,Afternoon,1,Hell's Kitchen,24,3.00,Coffee,Drip coffee,Our Old Time Diner Blend Lg,Our Old Time Diner Blend,3.00
+168,1/1/2023,Jan,12:08:21 PM,Afternoon,1,Lower Manhattan,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg,Lemon Grass,3.00
+169,1/1/2023,Jan,12:08:36 PM,Afternoon,1,Hell's Kitchen,35,3.10,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Jamaican Coffee River,3.10
+170,1/1/2023,Jan,12:09:11 PM,Afternoon,2,Astoria,28,2.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,Columbian Medium Roast,4.00
+171,1/1/2023,Jan,12:09:12 PM,Afternoon,2,Hell's Kitchen,50,2.50,Tea,Brewed Black tea,Earl Grey Rg,Earl Grey,5.00
+172,1/1/2023,Jan,12:13:07 PM,Afternoon,2,Lower Manhattan,38,3.75,Coffee,Barista Espresso,Latte,Latte,7.50
+173,1/1/2023,Jan,12:14:26 PM,Afternoon,2,Hell's Kitchen,35,3.10,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Jamaican Coffee River,6.20
+174,1/1/2023,Jan,12:17:38 PM,Afternoon,2,Hell's Kitchen,50,2.50,Tea,Brewed Black tea,Earl Grey Rg,Earl Grey,5.00
+175,1/1/2023,Jan,12:18:07 PM,Afternoon,2,Lower Manhattan,25,2.20,Coffee,Organic brewed coffee,Brazilian Sm,Brazilian,4.40
+176,1/1/2023,Jan,12:18:44 PM,Afternoon,2,Astoria,49,3.00,Tea,Brewed Black tea,English Breakfast Lg,English Breakfast,6.00
+177,1/1/2023,Jan,12:20:16 PM,Afternoon,2,Astoria,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,7.50
+178,1/1/2023,Jan,12:23:39 PM,Afternoon,1,Astoria,24,3.00,Coffee,Drip coffee,Our Old Time Diner Blend Lg,Our Old Time Diner Blend,3.00
+179,1/1/2023,Jan,12:27:06 PM,Afternoon,2,Lower Manhattan,41,4.25,Coffee,Barista Espresso,Cappuccino Lg,Cappuccino,8.50
+180,1/1/2023,Jan,12:30:46 PM,Afternoon,2,Astoria,44,2.50,Tea,Brewed herbal tea,Peppermint Rg,Peppermint,5.00
+181,1/1/2023,Jan,12:30:49 PM,Afternoon,1,Hell's Kitchen,38,3.75,Coffee,Barista Espresso,Latte,Latte,3.75
+182,1/1/2023,Jan,12:33:20 PM,Afternoon,2,Astoria,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,5.00
+183,1/1/2023,Jan,12:33:35 PM,Afternoon,2,Astoria,29,2.50,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,Columbian Medium Roast,5.00
+184,1/1/2023,Jan,12:35:53 PM,Afternoon,2,Lower Manhattan,31,2.20,Coffee,Gourmet brewed coffee,Ethiopia Sm,Ethiopia,4.40
+185,1/1/2023,Jan,12:36:57 PM,Afternoon,1,Hell's Kitchen,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,3.75
+186,1/1/2023,Jan,12:38:28 PM,Afternoon,2,Hell's Kitchen,49,3.00,Tea,Brewed Black tea,English Breakfast Lg,English Breakfast,6.00
+187,1/1/2023,Jan,12:42:26 PM,Afternoon,1,Astoria,53,3.00,Tea,Brewed Chai tea,Traditional Blend Chai Lg,Traditional Blend Chai,3.00
+188,1/1/2023,Jan,12:44:01 PM,Afternoon,1,Hell's Kitchen,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,3.75
+189,1/1/2023,Jan,12:44:31 PM,Afternoon,1,Astoria,53,3.00,Tea,Brewed Chai tea,Traditional Blend Chai Lg,Traditional Blend Chai,3.00
+190,1/1/2023,Jan,12:44:32 PM,Afternoon,1,Astoria,52,2.50,Tea,Brewed Chai tea,Traditional Blend Chai Rg,Traditional Blend Chai,2.50
+191,1/1/2023,Jan,12:45:52 PM,Afternoon,2,Astoria,28,2.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,Columbian Medium Roast,4.00
+192,1/1/2023,Jan,12:46:22 PM,Afternoon,1,Astoria,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,Spicy Eye Opener Chai,2.55
+193,1/1/2023,Jan,12:46:26 PM,Afternoon,1,Astoria,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,2.50
+194,1/1/2023,Jan,12:46:55 PM,Afternoon,1,Astoria,33,3.50,Coffee,Gourmet brewed coffee,Ethiopia Lg,Ethiopia,3.50
+195,1/1/2023,Jan,12:46:55 PM,Afternoon,1,Astoria,75,3.50,Bakery,Pastry,Croissant,Croissant,3.50
+196,1/1/2023,Jan,12:48:08 PM,Afternoon,2,Astoria,38,3.75,Coffee,Barista Espresso,Latte,Latte,7.50
+197,1/1/2023,Jan,12:49:48 PM,Afternoon,1,Hell's Kitchen,30,3.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,Columbian Medium Roast,3.00
+198,1/1/2023,Jan,12:50:15 PM,Afternoon,1,Astoria,59,4.50,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,Dark chocolate,4.50
+199,1/1/2023,Jan,12:50:28 PM,Afternoon,2,Astoria,32,3.00,Coffee,Gourmet brewed coffee,Ethiopia Rg,Ethiopia,6.00
+200,1/1/2023,Jan,12:51:21 PM,Afternoon,1,Hell's Kitchen,53,3.00,Tea,Brewed Chai tea,Traditional Blend Chai Lg,Traditional Blend Chai,3.00
+201,1/1/2023,Jan,12:51:57 PM,Afternoon,1,Lower Manhattan,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,Sustainably Grown Organic,4.75
+202,1/1/2023,Jan,12:51:57 PM,Afternoon,1,Lower Manhattan,72,3.25,Bakery,Scone,Ginger Scone,Ginger Scone,3.25
+203,1/1/2023,Jan,12:52:18 PM,Afternoon,1,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,Spicy Eye Opener Chai,2.55
+204,1/1/2023,Jan,12:52:18 PM,Afternoon,1,Lower Manhattan,75,3.50,Bakery,Pastry,Croissant,Croissant,3.50
+205,1/1/2023,Jan,12:53:11 PM,Afternoon,2,Hell's Kitchen,29,2.50,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,Columbian Medium Roast,5.00
+206,1/1/2023,Jan,12:53:59 PM,Afternoon,1,Hell's Kitchen,37,3.00,Coffee,Barista Espresso,Espresso shot,Espresso shot,3.00
+207,1/1/2023,Jan,12:55:25 PM,Afternoon,1,Astoria,49,3.00,Tea,Brewed Black tea,English Breakfast Lg,English Breakfast,3.00
+208,1/1/2023,Jan,12:55:27 PM,Afternoon,1,Lower Manhattan,57,3.10,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,Spicy Eye Opener Chai,3.10
+209,1/1/2023,Jan,12:55:27 PM,Afternoon,1,Lower Manhattan,75,3.50,Bakery,Pastry,Croissant,Croissant,3.50
+210,1/1/2023,Jan,12:55:36 PM,Afternoon,1,Hell's Kitchen,45,3.00,Tea,Brewed herbal tea,Peppermint Lg,Peppermint,3.00
+211,1/1/2023,Jan,12:55:53 PM,Afternoon,2,Hell's Kitchen,26,3.00,Coffee,Organic brewed coffee,Brazilian Rg,Brazilian,6.00
+212,1/1/2023,Jan,12:56:33 PM,Afternoon,1,Astoria,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,Sustainably Grown Organic,4.75
+213,1/1/2023,Jan,12:56:59 PM,Afternoon,1,Astoria,47,3.00,Tea,Brewed Green tea,Serenity Green Tea Lg,Serenity Green Tea,3.00
+214,1/1/2023,Jan,12:58:54 PM,Afternoon,2,Astoria,44,2.50,Tea,Brewed herbal tea,Peppermint Rg,Peppermint,5.00
+215,1/1/2023,Jan,12:59:06 PM,Afternoon,1,Hell's Kitchen,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,3.75
+216,1/1/2023,Jan,1:00:38 PM,Afternoon,2,Lower Manhattan,30,3.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,Columbian Medium Roast,6.00
+217,1/1/2023,Jan,1:01:33 PM,Afternoon,2,Lower Manhattan,25,2.20,Coffee,Organic brewed coffee,Brazilian Sm,Brazilian,4.40
+218,1/1/2023,Jan,1:02:40 PM,Afternoon,1,Hell's Kitchen,49,3.00,Tea,Brewed Black tea,English Breakfast Lg,English Breakfast,3.00
+219,1/1/2023,Jan,1:02:40 PM,Afternoon,1,Hell's Kitchen,78,4.50,Bakery,Scone,Scottish Cream Scone ,Scottish Cream Scone,4.50
+220,1/1/2023,Jan,1:02:52 PM,Afternoon,1,Hell's Kitchen,26,3.00,Coffee,Organic brewed coffee,Brazilian Rg,Brazilian,3.00
+221,1/1/2023,Jan,1:03:13 PM,Afternoon,2,Astoria,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg,Lemon Grass,6.00
+222,1/1/2023,Jan,1:04:01 PM,Afternoon,2,Hell's Kitchen,25,2.20,Coffee,Organic brewed coffee,Brazilian Sm,Brazilian,4.40
+223,1/1/2023,Jan,1:04:01 PM,Afternoon,1,Hell's Kitchen,72,3.25,Bakery,Scone,Ginger Scone,Ginger Scone,3.25
+224,1/1/2023,Jan,1:04:22 PM,Afternoon,2,Hell's Kitchen,42,2.50,Tea,Brewed herbal tea,Lemon Grass Rg,Lemon Grass,5.00
+225,1/1/2023,Jan,1:04:37 PM,Afternoon,2,Hell's Kitchen,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,5.00
+226,1/1/2023,Jan,1:04:51 PM,Afternoon,1,Astoria,22,2.00,Coffee,Drip coffee,Our Old Time Diner Blend Sm,Our Old Time Diner Blend,2.00
+227,1/1/2023,Jan,1:05:56 PM,Afternoon,1,Astoria,58,3.50,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,Dark chocolate,3.50
+228,1/1/2023,Jan,1:07:37 PM,Afternoon,2,Lower Manhattan,24,3.00,Coffee,Drip coffee,Our Old Time Diner Blend Lg,Our Old Time Diner Blend,6.00
+229,1/1/2023,Jan,1:09:03 PM,Afternoon,1,Astoria,35,3.10,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Jamaican Coffee River,3.10
+230,1/1/2023,Jan,1:12:03 PM,Afternoon,2,Lower Manhattan,30,3.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,Columbian Medium Roast,6.00
+231,1/1/2023,Jan,1:13:09 PM,Afternoon,1,Lower Manhattan,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,3.75
+232,1/1/2023,Jan,1:17:30 PM,Afternoon,1,Hell's Kitchen,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,Spicy Eye Opener Chai,2.55
+233,1/1/2023,Jan,1:17:32 PM,Afternoon,2,Astoria,55,4.00,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,Morning Sunrise Chai,8.00
+234,1/1/2023,Jan,1:18:34 PM,Afternoon,2,Hell's Kitchen,49,3.00,Tea,Brewed Black tea,English Breakfast Lg,English Breakfast,6.00
+235,1/1/2023,Jan,1:19:09 PM,Afternoon,1,Hell's Kitchen,55,4.00,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,Morning Sunrise Chai,4.00
+236,1/1/2023,Jan,1:19:09 PM,Afternoon,1,Hell's Kitchen,75,3.50,Bakery,Pastry,Croissant,Croissant,3.50
+237,1/1/2023,Jan,1:19:36 PM,Afternoon,1,Astoria,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,2.50
+238,1/1/2023,Jan,1:19:56 PM,Afternoon,2,Hell's Kitchen,31,2.20,Coffee,Gourmet brewed coffee,Ethiopia Sm,Ethiopia,4.40
+239,1/1/2023,Jan,1:20:51 PM,Afternoon,2,Astoria,35,3.10,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Jamaican Coffee River,6.20
+240,1/1/2023,Jan,1:21:23 PM,Afternoon,2,Astoria,38,3.75,Coffee,Barista Espresso,Latte,Latte,7.50
+241,1/1/2023,Jan,1:22:11 PM,Afternoon,1,Lower Manhattan,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,2.50
+242,1/1/2023,Jan,1:22:45 PM,Afternoon,2,Astoria,46,2.50,Tea,Brewed Green tea,Serenity Green Tea Rg,Serenity Green Tea,5.00
+243,1/1/2023,Jan,1:23:54 PM,Afternoon,2,Astoria,58,3.50,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,Dark chocolate,7.00
+244,1/1/2023,Jan,1:24:29 PM,Afternoon,2,Lower Manhattan,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,7.50
+245,1/1/2023,Jan,1:30:49 PM,Afternoon,2,Lower Manhattan,31,2.20,Coffee,Gourmet brewed coffee,Ethiopia Sm,Ethiopia,4.40
+246,1/1/2023,Jan,1:32:07 PM,Afternoon,2,Lower Manhattan,25,2.20,Coffee,Organic brewed coffee,Brazilian Sm,Brazilian,4.40
+247,1/1/2023,Jan,1:32:34 PM,Afternoon,1,Lower Manhattan,87,3.00,Coffee,Barista Espresso,Ouro Brasileiro shot,Ouro Brasileiro shot,3.00
+248,1/1/2023,Jan,1:34:12 PM,Afternoon,2,Astoria,28,2.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,Columbian Medium Roast,4.00
+249,1/1/2023,Jan,1:38:09 PM,Afternoon,1,Hell's Kitchen,27,3.50,Coffee,Organic brewed coffee,Brazilian Lg,Brazilian,3.50
+250,1/1/2023,Jan,1:38:11 PM,Afternoon,2,Hell's Kitchen,40,3.75,Coffee,Barista Espresso,Cappuccino,Cappuccino,7.50
+251,1/1/2023,Jan,1:39:41 PM,Afternoon,1,Lower Manhattan,51,3.00,Tea,Brewed Black tea,Earl Grey Lg,Earl Grey,3.00
+252,1/1/2023,Jan,1:40:47 PM,Afternoon,2,Astoria,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,5.00
+253,1/1/2023,Jan,1:41:09 PM,Afternoon,2,Astoria,42,2.50,Tea,Brewed herbal tea,Lemon Grass Rg,Lemon Grass,5.00
+254,1/1/2023,Jan,1:42:10 PM,Afternoon,1,Astoria,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg,Lemon Grass,3.00
+255,1/1/2023,Jan,1:42:49 PM,Afternoon,1,Lower Manhattan,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,3.75
+256,1/1/2023,Jan,1:42:58 PM,Afternoon,1,Lower Manhattan,52,2.50,Tea,Brewed Chai tea,Traditional Blend Chai Rg,Traditional Blend Chai,2.50
+257,1/1/2023,Jan,1:42:58 PM,Afternoon,1,Lower Manhattan,72,3.25,Bakery,Scone,Ginger Scone,Ginger Scone,3.25
+258,1/1/2023,Jan,1:43:18 PM,Afternoon,2,Astoria,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,5.00
+259,1/1/2023,Jan,1:43:18 PM,Afternoon,1,Astoria,69,3.25,Bakery,Biscotti,Hazelnut Biscotti,Hazelnut Biscotti,3.25
+260,1/1/2023,Jan,1:43:41 PM,Afternoon,2,Lower Manhattan,25,2.20,Coffee,Organic brewed coffee,Brazilian Sm,Brazilian,4.40
+261,1/1/2023,Jan,1:44:26 PM,Afternoon,1,Astoria,57,3.10,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,Spicy Eye Opener Chai,3.10
+262,1/1/2023,Jan,1:47:51 PM,Afternoon,1,Hell's Kitchen,40,3.75,Coffee,Barista Espresso,Cappuccino,Cappuccino,3.75
+263,1/1/2023,Jan,1:49:03 PM,Afternoon,2,Hell's Kitchen,22,2.00,Coffee,Drip coffee,Our Old Time Diner Blend Sm,Our Old Time Diner Blend,4.00
+264,1/1/2023,Jan,1:50:09 PM,Afternoon,1,Lower Manhattan,53,3.00,Tea,Brewed Chai tea,Traditional Blend Chai Lg,Traditional Blend Chai,3.00
+265,1/1/2023,Jan,1:50:47 PM,Afternoon,2,Hell's Kitchen,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,5.00
+266,1/1/2023,Jan,1:51:56 PM,Afternoon,2,Hell's Kitchen,32,3.00,Coffee,Gourmet brewed coffee,Ethiopia Rg,Ethiopia,6.00
+267,1/1/2023,Jan,1:53:04 PM,Afternoon,2,Astoria,38,3.75,Coffee,Barista Espresso,Latte,Latte,7.50
+268,1/1/2023,Jan,1:53:31 PM,Afternoon,1,Hell's Kitchen,33,3.50,Coffee,Gourmet brewed coffee,Ethiopia Lg,Ethiopia,3.50
+269,1/1/2023,Jan,1:54:18 PM,Afternoon,2,Hell's Kitchen,22,2.00,Coffee,Drip coffee,Our Old Time Diner Blend Sm,Our Old Time Diner Blend,4.00
+270,1/1/2023,Jan,1:55:04 PM,Afternoon,1,Lower Manhattan,42,2.50,Tea,Brewed herbal tea,Lemon Grass Rg,Lemon Grass,2.50
+271,1/1/2023,Jan,1:55:50 PM,Afternoon,2,Hell's Kitchen,45,3.00,Tea,Brewed herbal tea,Peppermint Lg,Peppermint,6.00
+272,1/1/2023,Jan,1:56:15 PM,Afternoon,2,Hell's Kitchen,48,2.50,Tea,Brewed Black tea,English Breakfast Rg,English Breakfast,5.00
+273,1/1/2023,Jan,1:56:24 PM,Afternoon,1,Hell's Kitchen,53,3.00,Tea,Brewed Chai tea,Traditional Blend Chai Lg,Traditional Blend Chai,3.00
+274,1/1/2023,Jan,1:57:34 PM,Afternoon,2,Lower Manhattan,27,3.50,Coffee,Organic brewed coffee,Brazilian Lg,Brazilian,7.00
+275,1/1/2023,Jan,1:57:34 PM,Afternoon,1,Lower Manhattan,71,3.75,Bakery,Pastry,Chocolate Croissant,Chocolate Croissant,3.75
+276,1/1/2023,Jan,1:58:10 PM,Afternoon,2,Astoria,46,2.50,Tea,Brewed Green tea,Serenity Green Tea Rg,Serenity Green Tea,5.00
+277,1/1/2023,Jan,1:58:11 PM,Afternoon,1,Lower Manhattan,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,Jamaican Coffee River,2.45
+278,1/1/2023,Jan,1:59:58 PM,Afternoon,2,Lower Manhattan,39,4.25,Coffee,Barista Espresso,Latte Rg,Latte,8.50
+279,1/1/2023,Jan,2:03:34 PM,Afternoon,2,Lower Manhattan,25,2.20,Coffee,Organic brewed coffee,Brazilian Sm,Brazilian,4.40
+280,1/1/2023,Jan,2:03:34 PM,Afternoon,1,Lower Manhattan,69,3.25,Bakery,Biscotti,Hazelnut Biscotti,Hazelnut Biscotti,3.25
+281,1/1/2023,Jan,2:03:41 PM,Afternoon,1,Astoria,32,3.00,Coffee,Gourmet brewed coffee,Ethiopia Rg,Ethiopia,3.00
+282,1/1/2023,Jan,2:07:12 PM,Afternoon,2,Astoria,41,4.25,Coffee,Barista Espresso,Cappuccino Lg,Cappuccino,8.50
+283,1/1/2023,Jan,2:07:56 PM,Afternoon,1,Astoria,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,2.50
+284,1/1/2023,Jan,2:08:03 PM,Afternoon,1,Hell's Kitchen,24,3.00,Coffee,Drip coffee,Our Old Time Diner Blend Lg,Our Old Time Diner Blend,3.00
+285,1/1/2023,Jan,2:08:03 PM,Afternoon,1,Hell's Kitchen,71,3.75,Bakery,Pastry,Chocolate Croissant,Chocolate Croissant,3.75
+286,1/1/2023,Jan,2:11:14 PM,Afternoon,2,Hell's Kitchen,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,7.50
+287,1/1/2023,Jan,2:13:28 PM,Afternoon,2,Lower Manhattan,57,3.10,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,Spicy Eye Opener Chai,6.20
+288,1/1/2023,Jan,2:19:57 PM,Afternoon,2,Lower Manhattan,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,5.00
+289,1/1/2023,Jan,2:20:06 PM,Afternoon,2,Astoria,35,3.10,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Jamaican Coffee River,6.20
+290,1/1/2023,Jan,2:20:08 PM,Afternoon,2,Astoria,42,2.50,Tea,Brewed herbal tea,Lemon Grass Rg,Lemon Grass,5.00
+291,1/1/2023,Jan,2:22:01 PM,Afternoon,2,Hell's Kitchen,49,3.00,Tea,Brewed Black tea,English Breakfast Lg,English Breakfast,6.00
+292,1/1/2023,Jan,2:22:38 PM,Afternoon,2,Lower Manhattan,39,4.25,Coffee,Barista Espresso,Latte Rg,Latte,8.50
+293,1/1/2023,Jan,2:23:28 PM,Afternoon,1,Hell's Kitchen,55,4.00,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,Morning Sunrise Chai,4.00
+294,1/1/2023,Jan,2:23:28 PM,Afternoon,1,Hell's Kitchen,71,3.75,Bakery,Pastry,Chocolate Croissant,Chocolate Croissant,3.75
+295,1/1/2023,Jan,2:24:55 PM,Afternoon,2,Astoria,41,4.25,Coffee,Barista Espresso,Cappuccino Lg,Cappuccino,8.50
+296,1/1/2023,Jan,2:24:55 PM,Afternoon,1,Astoria,79,3.75,Bakery,Scone,Jumbo Savory Scone,Jumbo Savory Scone,3.75
+297,1/1/2023,Jan,2:25:32 PM,Afternoon,2,Astoria,58,3.50,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,Dark chocolate,7.00
+298,1/1/2023,Jan,2:25:39 PM,Afternoon,2,Lower Manhattan,24,3.00,Coffee,Drip coffee,Our Old Time Diner Blend Lg,Our Old Time Diner Blend,6.00
+299,1/1/2023,Jan,2:26:36 PM,Afternoon,1,Hell's Kitchen,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,Sustainably Grown Organic,4.75
+300,1/1/2023,Jan,2:29:05 PM,Afternoon,2,Lower Manhattan,45,3.00,Tea,Brewed herbal tea,Peppermint Lg,Peppermint,6.00
+301,1/1/2023,Jan,2:29:50 PM,Afternoon,2,Lower Manhattan,49,3.00,Tea,Brewed Black tea,English Breakfast Lg,English Breakfast,6.00
+302,1/1/2023,Jan,2:29:50 PM,Afternoon,1,Lower Manhattan,78,4.50,Bakery,Scone,Scottish Cream Scone ,Scottish Cream Scone,4.50
+303,1/1/2023,Jan,2:30:51 PM,Afternoon,1,Hell's Kitchen,48,2.50,Tea,Brewed Black tea,English Breakfast Rg,English Breakfast,2.50
+304,1/1/2023,Jan,2:30:58 PM,Afternoon,1,Lower Manhattan,57,3.10,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,Spicy Eye Opener Chai,3.10
+305,1/1/2023,Jan,2:31:26 PM,Afternoon,1,Lower Manhattan,42,2.50,Tea,Brewed herbal tea,Lemon Grass Rg,Lemon Grass,2.50
+306,1/1/2023,Jan,2:32:20 PM,Afternoon,2,Hell's Kitchen,30,3.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,Columbian Medium Roast,6.00
+307,1/1/2023,Jan,2:32:42 PM,Afternoon,2,Lower Manhattan,41,4.25,Coffee,Barista Espresso,Cappuccino Lg,Cappuccino,8.50
+308,1/1/2023,Jan,2:32:54 PM,Afternoon,2,Hell's Kitchen,39,4.25,Coffee,Barista Espresso,Latte Rg,Latte,8.50
+309,1/1/2023,Jan,2:35:47 PM,Afternoon,1,Astoria,55,4.00,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,Morning Sunrise Chai,4.00
+310,1/1/2023,Jan,2:36:23 PM,Afternoon,2,Astoria,30,3.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,Columbian Medium Roast,6.00
+311,1/1/2023,Jan,2:36:35 PM,Afternoon,1,Lower Manhattan,57,3.10,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,Spicy Eye Opener Chai,3.10
+312,1/1/2023,Jan,2:37:48 PM,Afternoon,1,Lower Manhattan,44,2.50,Tea,Brewed herbal tea,Peppermint Rg,Peppermint,2.50
+313,1/1/2023,Jan,2:39:06 PM,Afternoon,1,Lower Manhattan,87,3.00,Coffee,Barista Espresso,Ouro Brasileiro shot,Ouro Brasileiro shot,3.00
+314,1/1/2023,Jan,2:39:48 PM,Afternoon,2,Hell's Kitchen,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,Jamaican Coffee River,4.90
+315,1/1/2023,Jan,2:42:39 PM,Afternoon,2,Lower Manhattan,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,Sustainably Grown Organic,9.50
+316,1/1/2023,Jan,2:43:13 PM,Afternoon,2,Astoria,50,2.50,Tea,Brewed Black tea,Earl Grey Rg,Earl Grey,5.00
+317,1/1/2023,Jan,2:45:31 PM,Afternoon,1,Astoria,47,3.00,Tea,Brewed Green tea,Serenity Green Tea Lg,Serenity Green Tea,3.00
+318,1/1/2023,Jan,2:46:09 PM,Afternoon,1,Hell's Kitchen,48,2.50,Tea,Brewed Black tea,English Breakfast Rg,English Breakfast,2.50
+319,1/1/2023,Jan,2:47:29 PM,Afternoon,1,Hell's Kitchen,24,3.00,Coffee,Drip coffee,Our Old Time Diner Blend Lg,Our Old Time Diner Blend,3.00
+320,1/1/2023,Jan,2:47:29 PM,Afternoon,1,Hell's Kitchen,75,3.50,Bakery,Pastry,Croissant,Croissant,3.50
+321,1/1/2023,Jan,2:49:49 PM,Afternoon,2,Hell's Kitchen,51,3.00,Tea,Brewed Black tea,Earl Grey Lg,Earl Grey,6.00
+322,1/1/2023,Jan,2:51:19 PM,Afternoon,2,Lower Manhattan,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg,Lemon Grass,6.00
+323,1/1/2023,Jan,2:55:34 PM,Afternoon,2,Astoria,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,Jamaican Coffee River,4.90
+324,1/1/2023,Jan,2:58:07 PM,Afternoon,2,Hell's Kitchen,30,3.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,Columbian Medium Roast,6.00
+325,1/1/2023,Jan,2:58:35 PM,Afternoon,1,Astoria,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg,Lemon Grass,3.00
+326,1/1/2023,Jan,3:02:04 PM,Afternoon,2,Astoria,39,4.25,Coffee,Barista Espresso,Latte Rg,Latte,8.50
+327,1/1/2023,Jan,3:02:28 PM,Afternoon,1,Hell's Kitchen,38,3.75,Coffee,Barista Espresso,Latte,Latte,3.75
+328,1/1/2023,Jan,3:06:27 PM,Afternoon,2,Lower Manhattan,25,2.20,Coffee,Organic brewed coffee,Brazilian Sm,Brazilian,4.40
+329,1/1/2023,Jan,3:08:28 PM,Afternoon,2,Astoria,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg,Lemon Grass,6.00
+330,1/1/2023,Jan,3:09:37 PM,Afternoon,1,Astoria,22,2.00,Coffee,Drip coffee,Our Old Time Diner Blend Sm,Our Old Time Diner Blend,2.00
+331,1/1/2023,Jan,3:09:54 PM,Afternoon,1,Hell's Kitchen,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,Sustainably Grown Organic,4.75
+332,1/1/2023,Jan,3:10:10 PM,Afternoon,1,Lower Manhattan,40,3.75,Coffee,Barista Espresso,Cappuccino,Cappuccino,3.75
+333,1/1/2023,Jan,3:10:10 PM,Afternoon,1,Lower Manhattan,75,3.50,Bakery,Pastry,Croissant,Croissant,3.50
+334,1/1/2023,Jan,3:12:22 PM,Afternoon,1,Astoria,24,3.00,Coffee,Drip coffee,Our Old Time Diner Blend Lg,Our Old Time Diner Blend,3.00
+335,1/1/2023,Jan,3:12:54 PM,Afternoon,2,Astoria,52,2.50,Tea,Brewed Chai tea,Traditional Blend Chai Rg,Traditional Blend Chai,5.00
+336,1/1/2023,Jan,3:14:19 PM,Afternoon,2,Astoria,26,3.00,Coffee,Organic brewed coffee,Brazilian Rg,Brazilian,6.00
+337,1/1/2023,Jan,3:16:37 PM,Afternoon,2,Lower Manhattan,38,3.75,Coffee,Barista Espresso,Latte,Latte,7.50
+338,1/1/2023,Jan,3:18:56 PM,Afternoon,1,Astoria,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,Sustainably Grown Organic,4.75
+339,1/1/2023,Jan,3:19:34 PM,Afternoon,1,Astoria,29,2.50,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,Columbian Medium Roast,2.50
+340,1/1/2023,Jan,3:21:05 PM,Afternoon,2,Hell's Kitchen,30,3.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,Columbian Medium Roast,6.00
+341,1/1/2023,Jan,3:22:11 PM,Afternoon,2,Astoria,39,4.25,Coffee,Barista Espresso,Latte Rg,Latte,8.50
+342,1/1/2023,Jan,3:24:01 PM,Afternoon,1,Hell's Kitchen,26,3.00,Coffee,Organic brewed coffee,Brazilian Rg,Brazilian,3.00
+343,1/1/2023,Jan,3:25:09 PM,Afternoon,2,Lower Manhattan,50,2.50,Tea,Brewed Black tea,Earl Grey Rg,Earl Grey,5.00
+344,1/1/2023,Jan,3:27:11 PM,Afternoon,2,Astoria,58,3.50,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,Dark chocolate,7.00
+345,1/1/2023,Jan,3:28:29 PM,Afternoon,1,Astoria,58,3.50,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,Dark chocolate,3.50
+346,1/1/2023,Jan,3:28:54 PM,Afternoon,1,Lower Manhattan,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg,Lemon Grass,3.00
+347,1/1/2023,Jan,3:29:24 PM,Afternoon,1,Astoria,57,3.10,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,Spicy Eye Opener Chai,3.10
+348,1/1/2023,Jan,3:29:24 PM,Afternoon,1,Astoria,70,3.25,Bakery,Scone,Cranberry Scone,Cranberry Scone,3.25
+349,1/1/2023,Jan,3:30:16 PM,Afternoon,1,Astoria,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg,Lemon Grass,3.00
+350,1/1/2023,Jan,3:30:27 PM,Afternoon,2,Astoria,31,2.20,Coffee,Gourmet brewed coffee,Ethiopia Sm,Ethiopia,4.40
+351,1/1/2023,Jan,3:30:58 PM,Afternoon,1,Lower Manhattan,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,Jamaican Coffee River,2.45
+352,1/1/2023,Jan,3:30:58 PM,Afternoon,2,Hell's Kitchen,29,2.50,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,Columbian Medium Roast,5.00
+353,1/1/2023,Jan,3:33:36 PM,Afternoon,2,Lower Manhattan,28,2.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,Columbian Medium Roast,4.00
+354,1/1/2023,Jan,3:33:36 PM,Afternoon,1,Lower Manhattan,74,3.50,Bakery,Biscotti,Ginger Biscotti,Ginger Biscotti,3.50
+355,1/1/2023,Jan,3:34:10 PM,Afternoon,2,Astoria,41,4.25,Coffee,Barista Espresso,Cappuccino Lg,Cappuccino,8.50
+356,1/1/2023,Jan,3:34:10 PM,Afternoon,1,Astoria,76,3.50,Bakery,Biscotti,Chocolate Chip Biscotti,Chocolate Chip Biscotti,3.50
+357,1/1/2023,Jan,3:36:59 PM,Afternoon,2,Lower Manhattan,37,3.00,Coffee,Barista Espresso,Espresso shot,Espresso shot,6.00
+358,1/1/2023,Jan,3:39:44 PM,Afternoon,1,Hell's Kitchen,44,2.50,Tea,Brewed herbal tea,Peppermint Rg,Peppermint,2.50
+359,1/1/2023,Jan,3:42:20 PM,Afternoon,1,Astoria,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,3.75
+360,1/1/2023,Jan,3:45:16 PM,Afternoon,2,Astoria,46,2.50,Tea,Brewed Green tea,Serenity Green Tea Rg,Serenity Green Tea,5.00
+361,1/1/2023,Jan,3:46:34 PM,Afternoon,2,Lower Manhattan,40,3.75,Coffee,Barista Espresso,Cappuccino,Cappuccino,7.50
+362,1/1/2023,Jan,3:51:15 PM,Afternoon,2,Hell's Kitchen,35,3.10,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Jamaican Coffee River,6.20
+363,1/1/2023,Jan,3:52:23 PM,Afternoon,2,Lower Manhattan,39,4.25,Coffee,Barista Espresso,Latte Rg,Latte,8.50
+364,1/1/2023,Jan,3:52:23 PM,Afternoon,1,Lower Manhattan,69,3.25,Bakery,Biscotti,Hazelnut Biscotti,Hazelnut Biscotti,3.25
+365,1/1/2023,Jan,3:53:55 PM,Afternoon,2,Lower Manhattan,33,3.50,Coffee,Gourmet brewed coffee,Ethiopia Lg,Ethiopia,7.00
+366,1/1/2023,Jan,3:55:45 PM,Afternoon,1,Hell's Kitchen,24,3.00,Coffee,Drip coffee,Our Old Time Diner Blend Lg,Our Old Time Diner Blend,3.00
+367,1/1/2023,Jan,3:55:50 PM,Afternoon,2,Astoria,31,2.20,Coffee,Gourmet brewed coffee,Ethiopia Sm,Ethiopia,4.40
+368,1/1/2023,Jan,3:58:55 PM,Afternoon,1,Hell's Kitchen,48,2.50,Tea,Brewed Black tea,English Breakfast Rg,English Breakfast,2.50
+369,1/1/2023,Jan,4:00:23 PM,Afternoon,1,Hell's Kitchen,38,3.75,Coffee,Barista Espresso,Latte,Latte,3.75
+370,1/1/2023,Jan,4:02:07 PM,Afternoon,1,Hell's Kitchen,41,4.25,Coffee,Barista Espresso,Cappuccino Lg,Cappuccino,4.25
+371,1/1/2023,Jan,4:03:30 PM,Afternoon,2,Astoria,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,Jamaican Coffee River,4.90
+372,1/1/2023,Jan,4:03:54 PM,Afternoon,1,Hell's Kitchen,46,2.50,Tea,Brewed Green tea,Serenity Green Tea Rg,Serenity Green Tea,2.50
+373,1/1/2023,Jan,4:04:10 PM,Afternoon,2,Astoria,42,2.50,Tea,Brewed herbal tea,Lemon Grass Rg,Lemon Grass,5.00
+374,1/1/2023,Jan,4:06:04 PM,Afternoon,2,Astoria,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,5.00
+375,1/1/2023,Jan,4:07:20 PM,Afternoon,2,Astoria,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,5.00
+376,1/1/2023,Jan,4:08:59 PM,Afternoon,2,Astoria,42,2.50,Tea,Brewed herbal tea,Lemon Grass Rg,Lemon Grass,5.00
+377,1/1/2023,Jan,4:10:37 PM,Afternoon,2,Astoria,42,2.50,Tea,Brewed herbal tea,Lemon Grass Rg,Lemon Grass,5.00
+378,1/1/2023,Jan,4:12:00 PM,Afternoon,1,Hell's Kitchen,87,3.00,Coffee,Barista Espresso,Ouro Brasileiro shot,Ouro Brasileiro shot,3.00
+379,1/1/2023,Jan,4:17:06 PM,Afternoon,2,Astoria,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,Jamaican Coffee River,4.90
+380,1/1/2023,Jan,4:17:52 PM,Afternoon,2,Astoria,29,2.50,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,Columbian Medium Roast,5.00
+381,1/1/2023,Jan,4:19:00 PM,Afternoon,2,Hell's Kitchen,29,2.50,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,Columbian Medium Roast,5.00
+382,1/1/2023,Jan,4:19:17 PM,Afternoon,1,Astoria,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,Spicy Eye Opener Chai,2.55
+383,1/1/2023,Jan,4:19:26 PM,Afternoon,2,Lower Manhattan,40,3.75,Coffee,Barista Espresso,Cappuccino,Cappuccino,7.50
+384,1/1/2023,Jan,4:20:07 PM,Afternoon,2,Astoria,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,7.50
+385,1/1/2023,Jan,4:22:07 PM,Afternoon,1,Lower Manhattan,22,2.00,Coffee,Drip coffee,Our Old Time Diner Blend Sm,Our Old Time Diner Blend,2.00
+386,1/1/2023,Jan,4:22:38 PM,Afternoon,1,Astoria,22,2.00,Coffee,Drip coffee,Our Old Time Diner Blend Sm,Our Old Time Diner Blend,2.00
+387,1/1/2023,Jan,4:25:28 PM,Afternoon,1,Astoria,44,2.50,Tea,Brewed herbal tea,Peppermint Rg,Peppermint,2.50
+388,1/1/2023,Jan,4:27:42 PM,Afternoon,1,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,Spicy Eye Opener Chai,2.55
+389,1/1/2023,Jan,4:28:00 PM,Afternoon,2,Hell's Kitchen,53,3.00,Tea,Brewed Chai tea,Traditional Blend Chai Lg,Traditional Blend Chai,6.00
+390,1/1/2023,Jan,4:28:57 PM,Afternoon,1,Lower Manhattan,42,2.50,Tea,Brewed herbal tea,Lemon Grass Rg,Lemon Grass,2.50
+391,1/1/2023,Jan,4:29:36 PM,Afternoon,2,Astoria,27,3.50,Coffee,Organic brewed coffee,Brazilian Lg,Brazilian,7.00
+392,1/1/2023,Jan,4:30:12 PM,Afternoon,1,Astoria,40,3.75,Coffee,Barista Espresso,Cappuccino,Cappuccino,3.75
+393,1/1/2023,Jan,4:33:35 PM,Afternoon,1,Astoria,35,3.10,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Jamaican Coffee River,3.10
+394,1/1/2023,Jan,4:35:11 PM,Afternoon,1,Lower Manhattan,28,2.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,Columbian Medium Roast,2.00
+395,1/1/2023,Jan,4:39:24 PM,Afternoon,1,Astoria,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,3.75
+396,1/1/2023,Jan,4:39:27 PM,Afternoon,1,Hell's Kitchen,58,3.50,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,Dark chocolate,3.50
+397,1/1/2023,Jan,4:40:18 PM,Afternoon,1,Astoria,33,3.50,Coffee,Gourmet brewed coffee,Ethiopia Lg,Ethiopia,3.50
+398,1/1/2023,Jan,4:40:19 PM,Afternoon,1,Lower Manhattan,46,2.50,Tea,Brewed Green tea,Serenity Green Tea Rg,Serenity Green Tea,2.50
+399,1/1/2023,Jan,4:41:51 PM,Afternoon,1,Lower Manhattan,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,2.50
+400,1/1/2023,Jan,4:43:33 PM,Afternoon,2,Hell's Kitchen,50,2.50,Tea,Brewed Black tea,Earl Grey Rg,Earl Grey,5.00
+401,1/1/2023,Jan,4:44:46 PM,Afternoon,2,Astoria,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,5.00
+402,1/1/2023,Jan,4:47:05 PM,Afternoon,1,Lower Manhattan,44,2.50,Tea,Brewed herbal tea,Peppermint Rg,Peppermint,2.50
+403,1/1/2023,Jan,4:47:05 PM,Afternoon,1,Lower Manhattan,72,3.25,Bakery,Scone,Ginger Scone,Ginger Scone,3.25
+404,1/1/2023,Jan,4:48:31 PM,Afternoon,2,Lower Manhattan,44,2.50,Tea,Brewed herbal tea,Peppermint Rg,Peppermint,5.00
+405,1/1/2023,Jan,4:49:19 PM,Afternoon,1,Lower Manhattan,53,3.00,Tea,Brewed Chai tea,Traditional Blend Chai Lg,Traditional Blend Chai,3.00
+406,1/1/2023,Jan,4:49:19 PM,Afternoon,1,Lower Manhattan,71,3.75,Bakery,Pastry,Chocolate Croissant,Chocolate Croissant,3.75
+407,1/1/2023,Jan,4:49:38 PM,Afternoon,1,Astoria,52,2.50,Tea,Brewed Chai tea,Traditional Blend Chai Rg,Traditional Blend Chai,2.50
+408,1/1/2023,Jan,4:52:13 PM,Afternoon,2,Hell's Kitchen,42,2.50,Tea,Brewed herbal tea,Lemon Grass Rg,Lemon Grass,5.00
+409,1/1/2023,Jan,4:52:51 PM,Afternoon,1,Lower Manhattan,50,2.50,Tea,Brewed Black tea,Earl Grey Rg,Earl Grey,2.50
+410,1/1/2023,Jan,4:56:48 PM,Afternoon,1,Astoria,28,2.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,Columbian Medium Roast,2.00
+411,1/1/2023,Jan,4:58:42 PM,Afternoon,1,Astoria,58,3.50,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,Dark chocolate,3.50
+412,1/1/2023,Jan,4:58:42 PM,Afternoon,1,Astoria,69,3.25,Bakery,Biscotti,Hazelnut Biscotti,Hazelnut Biscotti,3.25
+413,1/1/2023,Jan,5:01:03 PM,Evening,2,Lower Manhattan,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,7.50
+414,1/1/2023,Jan,5:01:31 PM,Evening,2,Hell's Kitchen,50,2.50,Tea,Brewed Black tea,Earl Grey Rg,Earl Grey,5.00
+415,1/1/2023,Jan,5:03:21 PM,Evening,1,Astoria,50,2.50,Tea,Brewed Black tea,Earl Grey Rg,Earl Grey,2.50
+416,1/1/2023,Jan,5:05:44 PM,Evening,2,Astoria,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,7.50
+417,1/1/2023,Jan,5:09:18 PM,Evening,2,Hell's Kitchen,47,3.00,Tea,Brewed Green tea,Serenity Green Tea Lg,Serenity Green Tea,6.00
+418,1/1/2023,Jan,5:10:34 PM,Evening,1,Astoria,27,3.50,Coffee,Organic brewed coffee,Brazilian Lg,Brazilian,3.50
+419,1/1/2023,Jan,5:10:35 PM,Evening,1,Astoria,59,4.50,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,Dark chocolate,4.50
+420,1/1/2023,Jan,5:11:58 PM,Evening,2,Hell's Kitchen,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,7.50
+421,1/1/2023,Jan,5:13:17 PM,Evening,2,Lower Manhattan,31,2.20,Coffee,Gourmet brewed coffee,Ethiopia Sm,Ethiopia,4.40
+422,1/1/2023,Jan,5:16:17 PM,Evening,1,Hell's Kitchen,35,3.10,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Jamaican Coffee River,3.10
+423,1/1/2023,Jan,5:17:19 PM,Evening,2,Hell's Kitchen,55,4.00,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,Morning Sunrise Chai,8.00
+424,1/1/2023,Jan,5:17:22 PM,Evening,1,Hell's Kitchen,31,2.20,Coffee,Gourmet brewed coffee,Ethiopia Sm,Ethiopia,2.20
+425,1/1/2023,Jan,5:18:36 PM,Evening,1,Astoria,29,2.50,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,Columbian Medium Roast,2.50
+426,1/1/2023,Jan,5:19:08 PM,Evening,2,Lower Manhattan,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,Jamaican Coffee River,4.90
+427,1/1/2023,Jan,5:19:08 PM,Evening,1,Lower Manhattan,75,3.50,Bakery,Pastry,Croissant,Croissant,3.50
+428,1/1/2023,Jan,5:19:11 PM,Evening,2,Hell's Kitchen,39,4.25,Coffee,Barista Espresso,Latte Rg,Latte,8.50
+429,1/1/2023,Jan,5:19:28 PM,Evening,2,Hell's Kitchen,28,2.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,Columbian Medium Roast,4.00
+430,1/1/2023,Jan,5:19:49 PM,Evening,2,Hell's Kitchen,87,3.00,Coffee,Barista Espresso,Ouro Brasileiro shot,Ouro Brasileiro shot,6.00
+431,1/1/2023,Jan,5:19:49 PM,Evening,1,Hell's Kitchen,78,4.50,Bakery,Scone,Scottish Cream Scone ,Scottish Cream Scone,4.50
+432,1/1/2023,Jan,5:20:02 PM,Evening,2,Hell's Kitchen,46,2.50,Tea,Brewed Green tea,Serenity Green Tea Rg,Serenity Green Tea,5.00
+433,1/1/2023,Jan,5:20:02 PM,Evening,1,Hell's Kitchen,77,3.00,Bakery,Scone,Oatmeal Scone,Oatmeal Scone,3.00
+434,1/1/2023,Jan,5:22:36 PM,Evening,1,Astoria,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,3.75
+435,1/1/2023,Jan,5:23:03 PM,Evening,1,Lower Manhattan,48,2.50,Tea,Brewed Black tea,English Breakfast Rg,English Breakfast,2.50
+436,1/1/2023,Jan,5:23:04 PM,Evening,1,Astoria,41,4.25,Coffee,Barista Espresso,Cappuccino Lg,Cappuccino,4.25
+437,1/1/2023,Jan,5:25:45 PM,Evening,2,Astoria,58,3.50,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,Dark chocolate,7.00
+438,1/1/2023,Jan,5:26:15 PM,Evening,1,Hell's Kitchen,35,3.10,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Jamaican Coffee River,3.10
+439,1/1/2023,Jan,5:26:15 PM,Evening,1,Hell's Kitchen,76,3.50,Bakery,Biscotti,Chocolate Chip Biscotti,Chocolate Chip Biscotti,3.50
+440,1/1/2023,Jan,5:28:42 PM,Evening,1,Lower Manhattan,37,3.00,Coffee,Barista Espresso,Espresso shot,Espresso shot,3.00
+441,1/1/2023,Jan,5:28:42 PM,Evening,1,Lower Manhattan,70,3.25,Bakery,Scone,Cranberry Scone,Cranberry Scone,3.25
+442,1/1/2023,Jan,5:29:25 PM,Evening,1,Astoria,46,2.50,Tea,Brewed Green tea,Serenity Green Tea Rg,Serenity Green Tea,2.50
+443,1/1/2023,Jan,5:29:25 PM,Evening,1,Astoria,75,3.50,Bakery,Pastry,Croissant,Croissant,3.50
+444,1/1/2023,Jan,5:34:47 PM,Evening,2,Hell's Kitchen,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,5.00
+445,1/1/2023,Jan,5:35:26 PM,Evening,1,Astoria,47,3.00,Tea,Brewed Green tea,Serenity Green Tea Lg,Serenity Green Tea,3.00
+446,1/1/2023,Jan,5:35:26 PM,Evening,1,Astoria,69,3.25,Bakery,Biscotti,Hazelnut Biscotti,Hazelnut Biscotti,3.25
+447,1/1/2023,Jan,5:37:26 PM,Evening,1,Hell's Kitchen,42,2.50,Tea,Brewed herbal tea,Lemon Grass Rg,Lemon Grass,2.50
+448,1/1/2023,Jan,5:40:50 PM,Evening,1,Astoria,55,4.00,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,Morning Sunrise Chai,4.00
+449,1/1/2023,Jan,5:41:55 PM,Evening,2,Astoria,55,4.00,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,Morning Sunrise Chai,8.00
+450,1/1/2023,Jan,5:41:55 PM,Evening,1,Astoria,71,3.75,Bakery,Pastry,Chocolate Croissant,Chocolate Croissant,3.75
+451,1/1/2023,Jan,5:43:49 PM,Evening,2,Hell's Kitchen,52,2.50,Tea,Brewed Chai tea,Traditional Blend Chai Rg,Traditional Blend Chai,5.00
+452,1/1/2023,Jan,5:44:28 PM,Evening,2,Astoria,27,3.50,Coffee,Organic brewed coffee,Brazilian Lg,Brazilian,7.00
+453,1/1/2023,Jan,5:44:28 PM,Evening,1,Astoria,74,3.50,Bakery,Biscotti,Ginger Biscotti,Ginger Biscotti,3.50
+454,1/1/2023,Jan,5:44:48 PM,Evening,1,Hell's Kitchen,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,Jamaican Coffee River,2.45
+455,1/1/2023,Jan,5:45:21 PM,Evening,1,Hell's Kitchen,27,3.50,Coffee,Organic brewed coffee,Brazilian Lg,Brazilian,3.50
+456,1/1/2023,Jan,5:46:21 PM,Evening,2,Hell's Kitchen,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,7.50
+457,1/1/2023,Jan,5:46:21 PM,Evening,1,Hell's Kitchen,76,3.50,Bakery,Biscotti,Chocolate Chip Biscotti,Chocolate Chip Biscotti,3.50
+458,1/1/2023,Jan,5:49:04 PM,Evening,2,Hell's Kitchen,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,7.50
+459,1/1/2023,Jan,5:50:19 PM,Evening,1,Lower Manhattan,45,3.00,Tea,Brewed herbal tea,Peppermint Lg,Peppermint,3.00
+460,1/1/2023,Jan,5:50:30 PM,Evening,2,Hell's Kitchen,38,3.75,Coffee,Barista Espresso,Latte,Latte,7.50
+461,1/1/2023,Jan,5:51:06 PM,Evening,2,Astoria,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,7.50
+462,1/1/2023,Jan,5:54:11 PM,Evening,2,Astoria,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,Spicy Eye Opener Chai,5.10
+463,1/1/2023,Jan,5:56:46 PM,Evening,1,Hell's Kitchen,30,3.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,Columbian Medium Roast,3.00
+464,1/1/2023,Jan,5:58:01 PM,Evening,1,Lower Manhattan,39,4.25,Coffee,Barista Espresso,Latte Rg,Latte,4.25
+465,1/1/2023,Jan,5:59:44 PM,Evening,2,Hell's Kitchen,53,3.00,Tea,Brewed Chai tea,Traditional Blend Chai Lg,Traditional Blend Chai,6.00
+466,1/1/2023,Jan,5:59:44 PM,Evening,1,Hell's Kitchen,76,3.50,Bakery,Biscotti,Chocolate Chip Biscotti,Chocolate Chip Biscotti,3.50
+467,1/1/2023,Jan,6:01:08 PM,Evening,2,Hell's Kitchen,45,3.00,Tea,Brewed herbal tea,Peppermint Lg,Peppermint,6.00
+468,1/1/2023,Jan,6:02:00 PM,Evening,1,Astoria,52,2.50,Tea,Brewed Chai tea,Traditional Blend Chai Rg,Traditional Blend Chai,2.50
+469,1/1/2023,Jan,6:02:21 PM,Evening,2,Lower Manhattan,49,3.00,Tea,Brewed Black tea,English Breakfast Lg,English Breakfast,6.00
+470,1/1/2023,Jan,6:03:13 PM,Evening,1,Astoria,28,2.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,Columbian Medium Roast,2.00
+471,1/1/2023,Jan,6:03:13 PM,Evening,1,Astoria,78,4.50,Bakery,Scone,Scottish Cream Scone ,Scottish Cream Scone,4.50
+472,1/1/2023,Jan,6:04:34 PM,Evening,1,Astoria,28,2.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,Columbian Medium Roast,2.00
+473,1/1/2023,Jan,6:06:52 PM,Evening,2,Astoria,30,3.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,Columbian Medium Roast,6.00
+474,1/1/2023,Jan,6:06:52 PM,Evening,1,Astoria,79,3.75,Bakery,Scone,Jumbo Savory Scone,Jumbo Savory Scone,3.75
+475,1/1/2023,Jan,6:07:13 PM,Evening,1,Hell's Kitchen,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,2.50
+476,1/1/2023,Jan,6:08:53 PM,Evening,2,Astoria,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,Jamaican Coffee River,4.90
+477,1/1/2023,Jan,6:12:37 PM,Evening,2,Astoria,25,2.20,Coffee,Organic brewed coffee,Brazilian Sm,Brazilian,4.40
+478,1/1/2023,Jan,6:13:32 PM,Evening,2,Lower Manhattan,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg,Our Old Time Diner Blend,5.00
+479,1/1/2023,Jan,6:13:41 PM,Evening,2,Hell's Kitchen,57,3.10,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,Spicy Eye Opener Chai,6.20
+480,1/1/2023,Jan,6:14:28 PM,Evening,2,Hell's Kitchen,26,3.00,Coffee,Organic brewed coffee,Brazilian Rg,Brazilian,6.00
+481,1/1/2023,Jan,6:17:09 PM,Evening,2,Hell's Kitchen,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Jamaican Coffee River,7.50
+482,1/1/2023,Jan,6:18:10 PM,Evening,1,Astoria,59,4.50,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,Dark chocolate,4.50
+483,1/1/2023,Jan,6:19:45 PM,Evening,1,Lower Manhattan,52,2.50,Tea,Brewed Chai tea,Traditional Blend Chai Rg,Traditional Blend Chai,2.50
+484,1/1/2023,Jan,6:19:45 PM,Evening,1,Lower Manhattan,76,3.50,Bakery,Biscotti,Chocolate Chip Biscotti,Chocolate Chip Biscotti,3.50
+485,1/1/2023,Jan,6:21:22 PM,Evening,1,Astoria,46,2.50,Tea,Brewed Green tea,Serenity Green Tea Rg,Serenity Green Tea,2.50
+486,1/1/2023,Jan,6:22:12 PM,Evening,2,Astoria,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,Sustainably Grown Organic,9.50
+487,1/1/2023,Jan,6:22:48 PM,Evening,2,Lower Manhattan,37,3.00,Coffee,Barista Espresso,Espresso shot,Espresso shot,6.00
+488,1/1/2023,Jan,6:22:53 PM,Evening,1,Astoria,32,3.00,Coffee,Gourmet brewed coffee,Ethiopia Rg,Ethiopia,3.00
+489,1/1/2023,Jan,6:22:53 PM,Evening,1,Astoria,79,3.75,Bakery,Scone,Jumbo Savory Scone,Jumbo Savory Scone,3.75
+490,1/1/2023,Jan,6:23:34 PM,Evening,2,Lower Manhattan,53,3.00,Tea,Brewed Chai tea,Traditional Blend Chai Lg,Traditional Blend Chai,6.00
+491,1/1/2023,Jan,6:25:51 PM,Evening,1,Astoria,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,Sustainably Grown Organic,4.75
+492,1/1/2023,Jan,6:25:57 PM,Evening,1,Hell's Kitchen,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg,Lemon Grass,3.00
+493,1/1/2023,Jan,6:27:08 PM,Evening,2,Lower Manhattan,54,2.50,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Morning Sunrise Chai,5.00
+494,1/1/2023,Jan,6:29:34 PM,Evening,2,Hell's Kitchen,44,2.50,Tea,Brewed herbal tea,Peppermint Rg,Peppermint,5.00
+495,1/1/2023,Jan,6:30:05 PM,Evening,2,Astoria,55,4.00,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,Morning Sunrise Chai,8.00
+496,1/1/2023,Jan,6:34:56 PM,Evening,2,Astoria,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Sustainably Grown Organic,7.50
+497,1/1/2023,Jan,6:39:29 PM,Evening,1,Astoria,22,2.00,Coffee,Drip coffee,Our Old Time Diner Blend Sm,Our Old Time Diner Blend,2.00
+498,1/1/2023,Jan,6:40:29 PM,Evening,2,Hell's Kitchen,53,3.00,Tea,Brewed Chai tea,Traditional Blend Chai Lg,Traditional Blend Chai,6.00
+499,1/1/2023,Jan,6:41:13 PM,Evening,1,Astoria,24,3.00,Coffee,Drip coffee,Our Old Time Diner Blend Lg,Our Old Time Diner Blend,3.00
