@@ -1,7 +1,7 @@
 # Excel-Coffee-Shop-Project
 ### OBJECTIVE-
 This project analyzes sales data for a fictional coffee shop chain to uncover trends in revenue over time, product performance, and store location insights.
-The goal was to create a clear, professional dashboard that could help stakeholders quickly understand which areas of business drive the most sales.
+As a beginner data analyst, the goal was to create a clear, professional dashboard that could help stakeholders quickly understand which areas of business drive the most sales.
 The entire dashboard was built using the free version of Excel.
 ---
 
